@@ -9,7 +9,7 @@ Introducing an innovative music app akin to Spotify, yet enhanced with unique fu
 
 ## Used technologies
 
-FitFlex has been build using the following technologies.
+Apollofy has been build using the following technologies.
 
 -Typescript
 -React
